@@ -11,3 +11,5 @@ Olá! Bem-vindo ao meu livro de receitas!
 - Torta de Frango 
 
 -  Frago Assado
+
+-Strogonoff de Boi 
